@@ -1,4 +1,4 @@
-# Exercise-02b-Bullets-And-Asteroids
+#Zander's Exercise-02b-Bullets-And-Asteroids
 
 Exercise for MSCH-C220
 
